@@ -2,6 +2,9 @@
 
 - Simple 404-Error⚠️ Webpage using 
 
-  * HTML <img src="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667"/>
+  * HTML ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 
-  * CSS <img src="https://camo.githubusercontent.com/6fc2d2fd7489311c12203893aea5125e3ab8a3ee9c09edba4cad7e9a5b5690f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e65746c6966796170705f77617465726373732f6e65746c6966796170705f77617465726373732d617232312e737667"/>
+  * CSS  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+
+# Webpage 
+ [404-Error](https://404-error-sandy.vercel.app/)⚠️
