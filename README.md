@@ -1,1 +1,7 @@
 # 404-Error
+
+- Simple 404-Error⚠️ Webpage using 
+
+  * HTML <img src="images/logo-180x105.png" alt="" width="180" height="105">
+
+  * CSS <img src="https://camo.githubusercontent.com/6fc2d2fd7489311c12203893aea5125e3ab8a3ee9c09edba4cad7e9a5b5690f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e65746c6966796170705f77617465726373732f6e65746c6966796170705f77617465726373732d617232312e737667"/>
